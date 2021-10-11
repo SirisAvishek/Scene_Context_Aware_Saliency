@@ -1,0 +1,15 @@
+_BASE_: "Base-RCNN-FPN.yaml"
+MODEL:
+    META_ARCHITECTURE: "SC_Model"
+    WEIGHTS: "weights/COCO_Inst_Seg_FPN_R_101_3x.pkl"
+    RESNETS:
+        DEPTH: 101
+    MASK_ON: True
+    SEM_SEG_HEAD:
+        LOSS_WEIGHT: 0.5    
+DATASETS:
+    TRAIN: ("coco_TSC_train",)
+    TEST: ("coco_TSC_val",)
+SOLVER:
+    STEPS: (210000, 250000)
+    MAX_ITER: 270000
