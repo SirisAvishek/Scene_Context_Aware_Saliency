@@ -44,8 +44,8 @@ You can download predicted Saliency Maps by our trained model from [google drive
 author = {Siris, Avishek and Jiao, Jianbo and Tam, Gary K.L. and Xie, Xianghua and Lau, Rynson W.H.},
 title = {Scene Context-Aware Salient Object Detection},
 booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-month = {June},
-year = {2020}
+month = {October},
+year = {2021}
 }
 ```
 
