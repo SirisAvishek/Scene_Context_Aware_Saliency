@@ -9,7 +9,7 @@ Avishek Siris, Jianbo Jiao, Gary K.L. Tam, Xianghua Xie, Rynson W.H. Lau
 
 ##
 <p align="center">
-<img src="https://github.com/SirisAvishek/Scene_Context_Aware_Saliency/blob/main/model_overview.png" width="800"/>
+<img src="https://github.com/SirisAvishek/Scene_Context_Aware_Saliency/blob/main/model_overview.jpg" width="800"/>
 </p>
 
 ## Abstract
