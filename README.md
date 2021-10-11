@@ -3,9 +3,8 @@
 ### Authors:
 Avishek Siris, Jianbo Jiao, Gary K.L. Tam, Xianghua Xie, Rynson W.H. Lau
 
-+ PDF: [Paper]
-+ Supplemental: [Supplementary Material]
-
++ PDF: [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Siris_Scene_Context-Aware_Salient_Object_Detection_ICCV_2021_paper.pdf)
++ Supplemental: [Supplementary Material](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Siris_Scene_Context-Aware_Salient_ICCV_2021_supplemental.pdf)
 
 ##
 <p align="center">
@@ -41,12 +40,11 @@ You can download predicted Saliency Maps by our trained model from [google drive
 # Citation
 ```
 @InProceedings{Siris_2021_ICCV,
-author = {Siris, Avishek and Jiao, Jianbo and Tam, Gary K.L. and Xie, Xianghua and Lau, Rynson W.H.},
-title = {Scene Context-Aware Salient Object Detection},
-booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-month = {October},
-year = {2021}
+    author    = {Siris, Avishek and Jiao, Jianbo and Tam, Gary K.L. and Xie, Xianghua and Lau, Rynson W.H.},
+    title     = {Scene Context-Aware Salient Object Detection},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {4156-4166}
 }
 ```
-
-
